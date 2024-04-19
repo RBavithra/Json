@@ -18,5 +18,5 @@ app.get('/users', (req, res) => {
 
 const PORT = 4000; // Change the port number to 4000
 app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+    console.log(`Server is running on port NUmber: ${PORT}`);
 });
